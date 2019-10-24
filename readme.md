@@ -1,5 +1,9 @@
 ## Code to run the ADFS algorithm
 
+This repository contains example code of the ADFS algorithm introduced in the paper "An Accelerated Decentralized Stochastic Proximal Algorithm for Finite Sums", Hadrien Hendrikx, Francis Bach and Laurent Massoulié. 
+
+The code is focused on logistic regression and is voluntarily minimalistic. It is intended to provide a simple example of how ADFS can be implemented to help anyone that would like to use it to recode it. This includes how to use leverage sparse datasets in the linear case.
+
 # Requirements
 
 Install the following packages:
